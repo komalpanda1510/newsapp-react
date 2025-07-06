@@ -1,3 +1,9 @@
+•	NewsMonkey is a dynamic and fully functional React.js application that delivers real-time news updates through APIs.
+•	100% API-driven – Fetches and updates news dynamically without requiring manual updates.
+•	10+ News Categories – Covers a wide range of topics including technology, science, health, and entertainment.
+•	Context API & useState/useEffect Hooks – Manages global state and handles data fetching efficiently.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
